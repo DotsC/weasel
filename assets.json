@@ -1,0 +1,16 @@
+{
+"base" : "./images/base.jpg",
+"bg" : "./images/bg.jpg",
+"can1" : "./images/can1.png",
+"can2" : "./images/can2.png",
+"can3" : "./images/can3.png",
+"can4" : "./images/can4.png",
+"introBMP" : "./images/introBMP.jpg",
+"leftCurtainBMP" : "./images/leftCurtainBMP.png",
+"rightCurtainBMP" : "./images/rightCurtainBMP.png",
+"mainCurtainBMP" : "./images/mainCurtainBMP.png",
+"playn" : "./images/play-n.png",
+"playo" : "./images/play-o.png",
+"playagaino" : "./images/play-agaim-o.png",
+"playagainn" : "./images/play-agaim-n.png"
+}
